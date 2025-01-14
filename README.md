@@ -5,9 +5,9 @@ This project enables the control of an RC boat using an ESP32 microcontroller an
 
 Key Features:
    
-1. Wi-Fi Connectivity: The ESP32 connects to a Wi-Fi network to communicate with the Blynk app.
+1.Wi-Fi Connectivity: The ESP32 connects to a Wi-Fi network to communicate with the Blynk app.
 
-2. Motor Control: Control the boat's movement using forward, backward, left, and right buttons.
+2.Motor Control: Control the boat's movement using forward, backward, left, and right buttons.
 
 3.Servo Control: Adjust the rudder position for turning, with servo control to steer the boat.
 
